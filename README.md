@@ -115,7 +115,7 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 
 ## 👥 Autor
 
-- **José María Gordillo Gragera** - *Desarrollo inicial* - [Github]([https://github.com/tu-usuario](https://github.com/JoseMarii14))
+- **José María Gordillo Gragera** - *Desarrollo inicial* - [JoseMarii14](https://github.com/JoseMarii14)
 
 ## 📞 Soporte
 
